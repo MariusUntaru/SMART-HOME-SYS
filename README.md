@@ -1,4 +1,4 @@
-# SMART-HOME-SYS
+# Smart-Home-System
 
 Nowadays most people are not yet very familiar with the concept of having an automated home system. The main reason why this technology didn't become something mainstream just yet is because of its complexity and cost [1]. Such a system consists of various IOT (Internet of Things) devices that are connected to the same internet network. This would allow all these devices to communicate between them and also with the user, giving him the chance to monitor and manage them remotely from a single control interface. At the moment there are a lot of manufacturers that offer these devices at a cheap price, but it doesn't make it any easier for common people to choose the right devices that are compatible with one another in order to create a simple and functional system.
 
